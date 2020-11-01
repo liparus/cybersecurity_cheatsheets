@@ -12,46 +12,59 @@ https://www.reddit.com/r/cybersecurity/comments/iu17uu/cybersec_cheat_sheets_in_
 
 Gerry's Cheatsheets Compilation
 
-    Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with         examples:  
+   Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with         examples:  
     https://github.com/Ignitetechnologies/Privilege-Escalation
 
-    Malware analysis tools and resources:
+   Malware analysis tools and resources:
     https://github.com/rshipp/awesome-malware-analysis
 
-    Analyzing Malicious Documents Cheat Sheet:
+   Analyzing Malicious Documents Cheat Sheet:
     https://zeltser.com/analyzing-malicious-documents/
-
-    ReverseEngineering Cheat Sheet:
+    
+   ReverseEngineering Cheat Sheet:
     https://www.cybrary.it/wp-content/uploads/2017/11/cheat-sheet-reverse-v6.png
 
-    SQL Injection | Various DBs:
+   SQL Injection | Various DBs:
     http://pentestmonkey.net/category/cheat-sheet/sql-injection
 
-    Nmap Cheat Sheet and Pro Tips https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
+   Nmap Cheat Sheet and Pro Tips:
+    https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
 
-    PENTESTING LocalFileInclude Cheat Sheet https://highon.coffee/blog/lfi-cheat-sheet/
+   PENTESTING LocalFileInclude Cheat Sheet:
+    https://highon.coffee/blog/lfi-cheat-sheet/
+    
+   Penetration Testing Tools Cheat Sheet:
+    https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
-    Penetration Testing Tools Cheat Sheet https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+   Reverse Shell Cheat Sheet:
+    https://highon.coffee/blog/reverse-shell-cheat-sheet/
 
-    Reverse Shell Cheat Sheet https://highon.coffee/blog/reverse-shell-cheat-sheet/
+   nbtscan Cheat Sheet:
+    https://highon.coffee/blog/nbtscan-cheat-sheet/
+    
+   Linux Commands Cheat Sheet:
+    https://highon.coffee/blog/linux-commands-cheat-sheet/
 
-    nbtscan Cheat Sheet https://highon.coffee/blog/nbtscan-cheat-sheet/
+   Kali Linux Cheat Sheet:
+    https://i.redd.it/9bu827i9tr751.jpg
 
-    Linux Commands Cheat Sheet https://highon.coffee/blog/linux-commands-cheat-sheet/
+   Hacking Tools Cheat Sheet (Diff tools):
+    https://i.redd.it/fviaw8s43q851.jpg
 
-    Kali Linux Cheat Sheet https://i.redd.it/9bu827i9tr751.jpg
+   Google Search Operators: The Complete List (42 Advanced Operators)
+    https://ahrefs.com/blog/google-advanced-search-operators/
 
-    Hacking Tools Cheat Sheet (Diff tools) https://i.redd.it/fviaw8s43q851.jpg
+   (Multiple) (Good) Cheat Sheets - Imgur
+    https://imgur.com/gallery/U5jqgik
 
-    Google Search Operators: The Complete List (42 Advanced Operators) https://ahrefs.com/blog/google-advanced-search-operators/
+   Active-Directory-Exploitation-Cheat-Sheet: A cheat sheet that contains common enumeration and attack methods for Windows Active Directory:
+    https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 
-    (Multiple) (Good) Cheat Sheets - Imgur https://imgur.com/gallery/U5jqgik
+   Shodan Query Filters:
+    https://github.com/JavierOlmedo/shodan-filters
 
-    Active-Directory-Exploitation-Cheat-Sheet: A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
-
-    Shodan Query Filters https://github.com/JavierOlmedo/shodan-filters
-
-    Getting Real with XSS - A reference on the new technquies to XSS https://labs.f-secure.com/blog/getting-real-with-xss/
+   Getting Real with XSS - A reference on the new technquies to XSS:
+    https://labs.f-secure.com/blog/getting-real-with-xss/
 
 SANS Massive List of Cheat Sheets Curated from here: https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
 
