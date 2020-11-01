@@ -7,10 +7,8 @@ SOURCE:
 https://www.reddit.com/r/cybersecurity/comments/iu17uu/cybersec_cheat_sheets_in_all_flavors_huge_list/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
 
-! Organize content and links !
-------------------------------
-
 Gerry's Cheatsheets Compilation
+-------------------------------
 
    Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with         examples:  
     https://github.com/Ignitetechnologies/Privilege-Escalation
