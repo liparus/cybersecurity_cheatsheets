@@ -12,15 +12,20 @@ https://www.reddit.com/r/cybersecurity/comments/iu17uu/cybersec_cheat_sheets_in_
 
 Gerry's Cheatsheets Compilation
 
-    Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples. https://github.com/Ignitetechnologies/Privilege-Escalation
+    Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with         examples:  
+    https://github.com/Ignitetechnologies/Privilege-Escalation
 
-    Malware analysis tools and resources. https://github.com/rshipp/awesome-malware-analysis
+    Malware analysis tools and resources:
+    https://github.com/rshipp/awesome-malware-analysis
 
-    Analyzing Malicious Documents Cheat Sheet https://zeltser.com/analyzing-malicious-documents/
+    Analyzing Malicious Documents Cheat Sheet:
+    https://zeltser.com/analyzing-malicious-documents/
 
-    ReverseEngineering Cheat Sheet https://www.cybrary.it/wp-content/uploads/2017/11/cheat-sheet-reverse-v6.png
+    ReverseEngineering Cheat Sheet:
+    https://www.cybrary.it/wp-content/uploads/2017/11/cheat-sheet-reverse-v6.png
 
-    SQL Injection | Various DBs http://pentestmonkey.net/category/cheat-sheet/sql-injection
+    SQL Injection | Various DBs:
+    http://pentestmonkey.net/category/cheat-sheet/sql-injection
 
     Nmap Cheat Sheet and Pro Tips https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
 
